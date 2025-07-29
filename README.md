@@ -14,6 +14,3 @@ This project is a Machine Learning-powered API built with **FastAPI** that predi
 - 📦 Requirements managed via `requirements.txt`
 
 ---
-
-## 📁 Project Structure
-
